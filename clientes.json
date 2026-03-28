@@ -1,0 +1,26 @@
+[
+    {
+        "nomeCliente": "Milton Fernandes",
+        "agencia": "5948-2",
+        "conta": "94933-3",
+        "saldo": 875.0
+    },
+    {
+        "nomeCliente": "Carlos Alberto",
+        "agencia": "5838-3",
+        "conta": "31923-2",
+        "saldo": 675.0
+    },
+    {
+        "nomeCliente": "José Carlos da Silva",
+        "agencia": "3949-4",
+        "conta": "39324-4",
+        "saldo": 1140.0
+    },
+    {
+        "nomeCliente": "Alberto Hernandez",
+        "agencia": "8483-5",
+        "conta": "90000-5",
+        "saldo": 1426.0
+    }
+]
